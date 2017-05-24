@@ -1,0 +1,5 @@
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem.Data\bin\Debug\WorkScheduleSystem.Data.dll
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem.Data\bin\Debug\WorkScheduleSystem.Data.pdb
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem.Data\obj\Debug\WorkScheduleSystem.Data.dll
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem.Data\obj\Debug\WorkScheduleSystem.Data.pdb
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem.Data\obj\Debug\WorkScheduleSystem.Data.csprojResolveAssemblyReference.cache

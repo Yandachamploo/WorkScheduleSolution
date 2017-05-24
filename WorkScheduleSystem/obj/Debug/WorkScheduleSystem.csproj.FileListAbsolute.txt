@@ -1,0 +1,12 @@
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\WorkScheduleSystem.dll
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\WorkScheduleSystem.pdb
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\obj\Debug\WorkScheduleSystem.csprojResolveAssemblyReference.cache
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\obj\Debug\WorkScheduleSystem.dll
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\obj\Debug\WorkScheduleSystem.pdb
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\WorkScheduleSystem.dll.config
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\EntityFramework.dll
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\WorkScheduleSystem.Data.dll
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\WorkScheduleSystem.Data.pdb
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\EntityFramework.xml
+D:\fei\home\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\EntityFramework.SqlServer.xml
